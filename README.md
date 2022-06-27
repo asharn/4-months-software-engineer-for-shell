@@ -9,9 +9,9 @@ My pledge "#60DaysofUdacity " with Udacity.
 - I entered the classroom and watched some videos.
 - My current progress is:\
   **2. Backend Development with Node.js** (Progress 43%)\
-	**Lesson 1 - Foundations with Backend Development** (Progress 100%)\
-	**Lesson 2 - Getting Started with Node.Js** (Progress 100%)\
-	**Lesson 3 - Developing with TypeScript** (Progress 37%)\
+	- **Lesson 1 - Foundations with Backend Development** (Progress 100%)\
+	- **Lesson 2 - Getting Started with Node.Js** (Progress 100%)\
+	- **Lesson 3 - Developing with TypeScript** (Progress 37%)\
 - I will encourage @Vamsi Krishna P and @Shreya Agrawal.
 
 ![Day 1](images/day-01.png)
