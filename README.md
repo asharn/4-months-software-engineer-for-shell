@@ -15,3 +15,13 @@ My pledge "#60DaysofUdacity " with Udacity.
 - I will encourage @Vamsi Krishna P and @Shreya Agrawal.
 
 ![Day 1](images/day-01.png)
+
+
+## Day 2: June 28, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. Backend Development with Node.js** (Progress 55%)\
+	- **Lesson 3 - Developing with TypeScript** (Progress 100%)\
+- Tomorrow, I will try ro complete Unit Testing with Jasmine.
+- I will encourage @Sandipan Dey and @Prabhakar.
+
+![Day 2](images/day-02.png)
