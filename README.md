@@ -27,7 +27,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 ![Day 2](images/day-02.png)
 
 
-## Day 2: June 28, 2022. #60DaysofUdacity
+## Day 3: June 28, 2022. #60DaysofUdacity
 - My current progress is:\
   **2. Backend Development with Node.js** (Progress 58%)\
 	- **Lesson 4 - Unit Testing with Jasmine** (Progress 40%)\
