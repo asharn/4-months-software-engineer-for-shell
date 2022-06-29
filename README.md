@@ -32,6 +32,6 @@ My pledge "#60DaysofUdacity " with Udacity.
   **2. Backend Development with Node.js** (Progress 58%)\
 	- **Lesson 4 - Unit Testing with Jasmine** (Progress 40%)\
 - Tomorrow, I will try ro complete Unit Testing with Jasmine.
-- I will encourage @Sandipan Dey and @Prabhakar.
+- I will encourage @Nupur Chauhan and @Bhabani Prasad Kar.
 
 ![Day 3](images/day-03.png)
