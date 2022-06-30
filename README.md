@@ -27,7 +27,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 ![Day 2](images/day-02.png)
 
 
-## Day 3: June 28, 2022. #60DaysofUdacity
+## Day 3: June 29, 2022. #60DaysofUdacity
 - My current progress is:\
   **2. Backend Development with Node.js** (Progress 58%)\
 	- **Lesson 4 - Unit Testing with Jasmine** (Progress 40%)\
@@ -35,3 +35,16 @@ My pledge "#60DaysofUdacity " with Udacity.
 - I will encourage @Nupur Chauhan and @Bhabani Prasad Kar.
 
 ![Day 3](images/day-03.png)
+
+
+
+## Day 4: June 30, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. Backend Development with Node.js** (Progress 76%)\
+	- **Lesson 4 - Unit Testing with Jasmine** (Progress 100%)\
+- Tomorrow, I will start to learn and try to complete Building a Server.
+- There is one blocker issue with desc "Cannot find module 'jasmine-spec-reporter'. Did you mean to set the 'moduleResolution' option to 'node', or to add aliases to the 'paths' option?ts(2792)
+" which need to resolve in local but working fine in workspace.
+- I will encourage @Sushant.Magoo and @james mascarenhas.
+
+![Day 4](images/day-04.png)
