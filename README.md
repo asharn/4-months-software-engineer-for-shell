@@ -65,10 +65,30 @@ My pledge "#60DaysofUdacity " with Udacity.
 - My current progress is:\
   **2. Backend Development with Node.js** (Progress 97%)\
 	- **Lesson 5 - Impage Processing Project** (Progress 20%)\
-- Tomorrow, I will continue project Impage Processing.
+- Tomorrow, I will continue project Image Processing.
 - Hurdles: I am not able to use node in my local for most of the npm pachage.
 - I will encourage @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo and @james mascarenhas.
 					@vipin rawat, @Muhammed firoz
 
 ![Day 6](images/day-06.png)
+
+
+
+## Off-Day: July 03, 2022. #60DaysofUdacity
+
+
+
+## Day 7: July 04, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. Backend Development with Node.js** (Progress 97%)\
+	- **Lesson 5 - Impage Processing Project** (Progress 50%)\
+	- Added dependencies and read about JavaScript Style Guide\
+- Tomorrow, I will continue project Image Processing.
+- Hurdles: ISame issue
+- I will encourage @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo and @james mascarenhas.
+					@vipin rawat, @Muhammed firoz
+
+![Day 7](images/day-07.png)
+
+
 
