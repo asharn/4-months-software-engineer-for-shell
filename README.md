@@ -84,11 +84,22 @@ My pledge "#60DaysofUdacity " with Udacity.
 	- **Lesson 5 - Impage Processing Project** (Progress 50%)\
 	- Added dependencies and read about JavaScript Style Guide\
 - Tomorrow, I will continue project Image Processing.
-- Hurdles: ISame issue
+- Hurdles: Same issue
 - I will encourage @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo and @james mascarenhas.
 					@vipin rawat, @Muhammed firoz
 
 ![Day 7](images/day-07.png)
 
+
+
+## Day 8: July 05, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. Backend Development with Node.js** (Progress 97%)\
+	- **Lesson 5 - Impage Processing Project** (Progress 70%)\
+	- Added rest api to resize image and verify resizing feature\
+- Tomorrow, I will continue project Image Processing.
+- Hurdles: Same issue
+- I will encourage @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo and @james mascarenhas.
+					@vipin rawat, @Muhammed firoz
 
 
