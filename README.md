@@ -103,3 +103,15 @@ My pledge "#60DaysofUdacity " with Udacity.
 					@vipin rawat, @Muhammed firoz
 
 
+## Day 9: July 06, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. Backend Development with Node.js** (Progress 97%)\
+	- **Lesson 5 - Impage Processing Project** (Progress 80%)\
+	- Trying to implement logging in log file with default pattern\
+- Tomorrow, I will continue project Image Processing.
+- Hurdles: Same issue
+- I will encourage @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo and @james mascarenhas.
+					@vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh
+
+
+
