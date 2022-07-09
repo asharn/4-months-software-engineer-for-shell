@@ -126,11 +126,23 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 
 
-## Day 10: July 07, 2022. #60DaysofUdacity
+## Day 11: July 08, 2022. #60DaysofUdacity
 - My current progress is:\
   **2. Backend Development with Node.js** (Progress 97%)\
 	- **Lesson 5 - Image Processing Project** (Progress 85%)\
 	- Study and check Prettier and Lint package.\
+- Tomorrow, I will continue project Image Processing.
+- Hurdles: Same issue
+- I will encourage @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo , @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar 
+
+
+
+
+## Day 12: July 09, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. Backend Development with Node.js** (Progress 97%)\
+	- **Lesson 5 - Image Processing Project** (Progress 90%)\
+	- Code improvement and refactor for making it production ready code.\
 - Tomorrow, I will continue project Image Processing.
 - Hurdles: Same issue
 - I will encourage @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo , @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar 
