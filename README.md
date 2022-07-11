@@ -159,3 +159,11 @@ My pledge "#60DaysofUdacity " with Udacity.
 - I will encourage @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo , @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar 
 
 
+## Day 14: July 11, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. Backend Development with Node.js** (Progress 97%)\
+	- **Lesson 5 - Image Processing Project** (Progress 90%)\
+	- Project was completed but due to some minor code changes eslint stop working so fixed that issue and improve Readme.MD file and commite to Git Repo.\
+- Tomorrow, I will submit project Image Processing if everything thing will work as expected.
+- Hurdles: Same issue
+- I will encourage @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo , @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar 
