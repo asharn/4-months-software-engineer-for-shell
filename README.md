@@ -172,8 +172,8 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 15: July 12, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. Backend Development with Node.js** (Progress 97%)\
-	- **Lesson 5 - Image Processing Project** (Progress 90%)\
+  **2. Backend Development with Node.js** (Progress 100%)\
+	- **Lesson 5 - Image Processing Project** (Progress 95%)\
 	- Project is completed.\
 - Tomorrow, I will re-review project Image Processing and submit.
 - Hurdles: None
