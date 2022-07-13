@@ -178,3 +178,16 @@ My pledge "#60DaysofUdacity " with Udacity.
 - Tomorrow, I will re-review project Image Processing and submit.
 - Hurdles: None
 - I will encourage @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo , @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar 
+
+
+
+## Day 16: July 13, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. Backend Development with Node.js** (Progress 100%)\
+	- **Lesson 5 - Image Processing Project** (Progress 100%)\
+	- Project is completed and submitted as well as reviewed.\
+- Tomorrow, I will start React and Redux related lession.
+- Hurdles: None
+- I will encourage @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo, @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan 
+
+![Day 16](../images/first-project-submition-review.png)
