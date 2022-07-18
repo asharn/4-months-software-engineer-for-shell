@@ -229,3 +229,19 @@ My pledge "#60DaysofUdacity " with Udacity.
 - I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo, @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan 
 
 ![Day 19](images/day-19.png)
+
+
+## Off-Day: July 17, 2022. #60DaysofUdacity
+
+
+## Day 20: July 18, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. React and Redux** (Progress 81%)\
+	- **Lesson 6 - React-Redux Bindings** (Progress 100%)\
+- Tomorrow, I will finish Lessons Implementing React Plus Redux.
+- Hurdles: None
+- I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo, @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan 
+
+![Day 20](images/day-20.png)
+
+
