@@ -247,7 +247,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 21: July 19, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 81%)\
+  **2. React and Redux** (Progress 91%)\
 	- **Lesson 6 - Implementing React Plus Redux** (Progress 100%)\
 - Tomorrow, I will finish Lessons Testing with Jest.
 - Hurdles: None
