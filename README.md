@@ -245,9 +245,6 @@ My pledge "#60DaysofUdacity " with Udacity.
 ![Day 20](images/day-20.png)
 
 
-## Off-Day: July 17, 2022. #60DaysofUdacity
-
-
 ## Day 21: July 19, 2022. #60DaysofUdacity
 - My current progress is:\
   **2. React and Redux** (Progress 81%)\
