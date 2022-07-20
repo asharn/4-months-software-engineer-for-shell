@@ -256,3 +256,13 @@ My pledge "#60DaysofUdacity " with Udacity.
 ![Day 21](images/day-21.png)
 
 
+## Day 22: July 20, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. React and Redux** (Progress 100%)\
+	- **Lesson 6 - Testing with Jest** (Progress 100%)\
+- Tomorrow, I will start understanding of project **Employee Polls Web App**
+- Hurdles: None
+- I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo, @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen 
+
+![Day 22](images/day-22.png)
+
