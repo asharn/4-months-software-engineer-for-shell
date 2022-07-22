@@ -276,3 +276,14 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ![Day 23](images/day-23.png)
 
+
+## Day 24: July 22, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. React and Redux** (Progress 100%)\
+	- **Lesson 6 - Today I worked on actions, middlewares, and reducers.**\
+- Tomorrow, I will try to complete work of actions, middlewares and reducers to get poll data for project **Employee Polls Web App**
+- Hurdles: None
+- I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo, @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen 
+
+![Day 24](images/day-24.png)
+
