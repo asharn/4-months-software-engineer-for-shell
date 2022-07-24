@@ -298,3 +298,14 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ![Day 25](images/day-25.png)
 
+
+## Day 26: July 24, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. React and Redux** (Progress 100%)\
+	- **Today I worked on dashboard and home component and now I am able to view new as well as answered questions.**\
+- Tomorrow, I will try to complete work of New question data insertion, and view question with question/:id **Employee Polls Web App**
+- Hurdles: None
+- I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo, @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen 
+
+![Day 26](images/day-26.png)
+
