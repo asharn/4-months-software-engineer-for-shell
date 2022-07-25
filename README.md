@@ -309,3 +309,17 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ![Day 26](images/day-26.png)
 
+
+
+## Day 27: July 25, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. React and Redux** (Progress 100%)\
+	- **Today I worked on New question data insertion, view question and answer poll question and able to save.
+		Apart from this I have written 20 testcases including 4 snapshot and other function and Domelement based testing.**\
+- Tomorrow, I will try write Readme.MD file and after completion, I will move to sign up functionality. **Employee Polls Web App**
+- Hurdles: None
+- I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo, @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen 
+
+![Day 27](images/day-27.png)
+
+
