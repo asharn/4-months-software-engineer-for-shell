@@ -334,3 +334,14 @@ My pledge "#60DaysofUdacity " with Udacity.
 ![Day 28](images/day-28.png)
 
 
+## Day 29: July 27, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. React and Redux** (Progress 100%)\
+	- **Today I completed overall project and hosted project on Netlify to check everything is working as expected.**\
+- Tomorrow, I will submit project. **Employee Polls Web App**
+- Hurdles: None
+- I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo, @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen 
+
+![Day 29](images/day-29.png)
+
+
