@@ -365,3 +365,18 @@ My pledge "#60DaysofUdacity " with Udacity.
 - I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo, @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen 
 
 ![Day 31](images/day-31.png)
+
+
+
+## Off-Day: July 30, 2022. #60DaysofUdacity
+
+
+
+## Day 32: July 31, 2022. #60DaysofUdacity
+- My current progress is:\
+  **2. React and Redux** (Progress 100%)\
+	- **Today I have incorporated review comment and resubmited code.**\
+- Tomorrow, I will resubmit and if got any review then incorporate those. **Employee Polls Web App**
+- Hurdles: None
+- I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo, @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen 
+
