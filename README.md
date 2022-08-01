@@ -196,7 +196,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 17: July 14, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 41%)\
+  **3. React and Redux** (Progress 41%)\
 	- **Lesson 1 - Introduction to the course** (Progress 100%)\
 	- **Lesson 2 - Managing state** (Progress 100%)\
 - Tomorrow, I will finish UI plus Redux.
@@ -209,7 +209,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 18: July 15, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 65%)\
+  **3. React and Redux** (Progress 65%)\
 	- **Lesson 3 - UI plus Redux** (Progress 100%)\
 	- **Lesson 4 - Redux Middleware** (Progress 100%)\
 	- **Lesson 5 - Redux with React** (Progress 100%)\
@@ -222,7 +222,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 19: July 16, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 79%)\
+  **3. React and Redux** (Progress 79%)\
 	- **Lesson 6 - Asynchronous Redux** (Progress 100%)\
 - Tomorrow, I will finish Lessons React-Redux Bindings.
 - Hurdles: None
@@ -236,7 +236,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 20: July 18, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 81%)\
+  **3. React and Redux** (Progress 81%)\
 	- **Lesson 6 - React-Redux Bindings** (Progress 100%)\
 - Tomorrow, I will finish Lessons Implementing React Plus Redux.
 - Hurdles: None
@@ -247,7 +247,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 21: July 19, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 91%)\
+  **3. React and Redux** (Progress 91%)\
 	- **Lesson 6 - Implementing React Plus Redux** (Progress 100%)\
 - Tomorrow, I will finish Lessons Testing with Jest.
 - Hurdles: None
@@ -258,7 +258,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 22: July 20, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 100%)\
+  **3. React and Redux** (Progress 100%)\
 	- **Lesson 6 - Testing with Jest** (Progress 100%)\
 - Tomorrow, I will start understanding of project **Employee Polls Web App**
 - Hurdles: None
@@ -268,7 +268,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 23: July 21, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 100%)\
+  **3. React and Redux** (Progress 100%)\
 	- **Lesson 6 - Project create, toolbar added and route configured.**\
 - Tomorrow, I will implement actions and reducers to get poll data for project **Employee Polls Web App**
 - Hurdles: None
@@ -279,7 +279,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 24: July 22, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 100%)\
+  **3. React and Redux** (Progress 100%)\
 	- **Today I worked on actions, middlewares, and reducers.**\
 - Tomorrow, I will try to complete work of actions, middlewares and reducers to get poll data for project **Employee Polls Web App**
 - Hurdles: None
@@ -290,7 +290,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 25: July 23, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 100%)\
+  **3. React and Redux** (Progress 100%)\
 	- **Today I worked on leaderboard and sign in.**\
 - Tomorrow, I will try to complete work of sign up, home and new poll creation to get poll data for project **Employee Polls Web App**
 - Hurdles: None
@@ -301,7 +301,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 26: July 24, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 100%)\
+  **3. React and Redux** (Progress 100%)\
 	- **Today I worked on dashboard and home component and now I am able to view new as well as answered questions.**\
 - Tomorrow, I will try to complete work of New question data insertion, and view question with question/:id **Employee Polls Web App**
 - Hurdles: None
@@ -313,7 +313,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 27: July 25, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 100%)\
+  **3. React and Redux** (Progress 100%)\
 	- **Today I worked on New question data insertion, view question and answer poll question and able to save.
 		Apart from this I have written 20 testcases including 4 snapshot and other function and Domelement based testing.**\
 - Tomorrow, I will try write Readme.MD file and after completion, I will move to sign up functionality. **Employee Polls Web App**
@@ -325,7 +325,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 28: July 26, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 100%)\
+  **3. React and Redux** (Progress 100%)\
 	- **Today I completed Readme.MD file and hosted project on Heroku to check everything is working as expected.**\
 - Tomorrow, I will complete SignUp component and after that will submit project. **Employee Polls Web App**
 - Hurdles: None
@@ -336,7 +336,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 29: July 27, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 100%)\
+  **3. React and Redux** (Progress 100%)\
 	- **Today I completed overall project and hosted project on Netlify to check everything is working as expected.**\
 - Tomorrow, I will submit project. **Employee Polls Web App**
 - Hurdles: None
@@ -347,7 +347,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 30: July 28, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 100%)\
+  **3. React and Redux** (Progress 100%)\
 	- **Today I submitted the project.**\
 - Tomorrow, I will incorporate review comments. **Employee Polls Web App**
 - Hurdles: None
@@ -358,7 +358,7 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 31: July 29, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 100%)\
+  **3. React and Redux** (Progress 100%)\
 	- **Today I incorporate review comment, self review code and resubmit code.**\
 - Tomorrow, I will resubmit and if got any review then incorporate those. **Employee Polls Web App**
 - Hurdles: None
@@ -371,12 +371,23 @@ My pledge "#60DaysofUdacity " with Udacity.
 ## Off-Day: July 30, 2022. #60DaysofUdacity
 
 
-
 ## Day 32: July 31, 2022. #60DaysofUdacity
 - My current progress is:\
-  **2. React and Redux** (Progress 100%)\
-	- **Today I have incorporated review comment and resubmited code.**\
+  **3. React and Redux** (Progress 100%)\
+	- **Today I have incorporated review comment and resubmitted code.**\
 - Tomorrow, I will resubmit and if got any review then incorporate those. **Employee Polls Web App**
 - Hurdles: None
-- I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Shreya Agrawal, @Sushant.Magoo, @james mascarenhas, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen 
+- I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen 
+
+
+
+## Day 33: August 01, 2022. #60DaysofUdacity
+- My current progress is:\
+  **4. Advanced Python Techniques** (Progress 29%)\
+	- **Today I am enjoying on project submission approval and completed course Instroduction to Advanced Python Techniques** (Progress 100%)\
+- Tomorrow, I will be completing Representing Data.
+- Hurdles: None
+- I will encourage  @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kushum @Anusha Pachumarthi @Mohamed Salman
+
+![Day 33](images/day-33.png)
 
