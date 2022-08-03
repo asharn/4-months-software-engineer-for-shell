@@ -397,9 +397,20 @@ My pledge "#60DaysofUdacity " with Udacity.
 - My current progress is:\
   **4. Advanced Python Techniques** (Progress 45%)\
 	- **Today I have completed course Representing Data** (Progress 100%)\
-	- Tomorrow, I will be completing Funstions and Functional Programming.
+	- Tomorrow, I will be completing Functions and Functional Programming.
 	- Hurdles: None
 - I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
 
 ![Day 34](images/day-34.png)
 
+
+
+## Day 35: August 03, 2022. #60DaysofUdacity
+- My current progress is:\
+  **4. Advanced Python Techniques** (Progress 45%)\
+	- **Today I study comprehension using different data types and Inside Python Function** (Progress 100%)\
+	- Tomorrow, I will try to complete Functions and Functional Programming remaining topics.
+	- Hurdles: None
+- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
+
+![Day 35](images/day-35.png)
