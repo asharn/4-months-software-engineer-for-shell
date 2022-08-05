@@ -420,9 +420,20 @@ My pledge "#60DaysofUdacity " with Udacity.
 ## Day 36: August 04, 2022. #60DaysofUdacity
 - My current progress is:\
   **4. Advanced Python Techniques** (Progress 45%)\
-	- **Today due to of multiple calls and workload not able to concentrate on study. So, I revision the concept of Programming Paradigms** (Progress 100%)\
+	- **Today due to of multiple calls and workload not able to concentrate on study. So, Intead of new topics, I did revision on the concept of Programming Paradigms** (Progress 100%)\
 	- Tomorrow, I will try to complete Functions and Functional Programming remaining topics.
 	- Hurdles: None
 - I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
 
 ![Day 36](images/day-36.png)
+
+
+## Day 37: August 05, 2022. #60DaysofUdacity
+- My current progress is:\
+  **4. Advanced Python Techniques** (Progress 48%)\
+	- **Today I have completed till map, filter and lambda expression.** (Progress 60%)\
+	- Tomorrow, I will try to complete Functions and Functional Programming remaining topics.
+	- Hurdles: None
+- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
+
+![Day 37](images/day-37.png)
