@@ -533,4 +533,14 @@ My pledge "#60DaysofUdacity " with Udacity.
 ![Day 45](images/day-45.png)
 
 
+## Day 46: August 14, 2022. #60DaysofUdacity
+- My current progress is:\
+  **4. Advanced Python Techniques** (Progress 100%)\
+	- **Today I have completed overall Project: Near-Earth Objects and will submit after revalidation and cleaning code.** (Progress 100%)\
+	- **Tomorrow, I will incorporate review comment if any else will start fresh new lession Azure Applications.**
+	- Hurdles: None
+	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
+
+![Day 46](images/day-46.png)
+
 
