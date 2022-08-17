@@ -567,3 +567,15 @@ My pledge "#60DaysofUdacity " with Udacity.
 ![Day 48](images/day-48.png)
 
 
+
+## Day 49: August 17, 2022. #60DaysofUdacity
+- My current progress is:\
+  **5. Azure Applications** (Progress 100%)\
+	- **Today, I did some R&D to fix issue related to database connectivity of Azure Sql Database and after that I read Project Overview.** (Progress 100%)\
+	- **Tomorrow, I will do improvement in Project: Deploy An Article CMS To Azure.**
+	- Hurdles: Facing issue with connecting azure database.
+	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Nupur Chauhan, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
+
+![Day 49](images/day-49.png)
+
+
