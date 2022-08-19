@@ -585,7 +585,21 @@ My pledge "#60DaysofUdacity " with Udacity.
   **5. Azure Applications** (Progress 100%)\
 	- **Today, blocker issue get resolved and special thanks to @Anusha Panchumarthi for the help and support and revisited AD and Oauth.** (Progress 100%)\
 	- **Tomorrow, I will do improvement in Project: Deploy An Article CMS To Azure.**
-	- Hurdles: Facing issue with connecting azure database.
+	- Hurdles: None
 	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
 
 ![Day 50](images/day-50.png)
+
+
+
+
+## Day 51: August 19, 2022. #60DaysofUdacity
+- My current progress is:\
+  **5. Azure Applications** (Progress 100%)\
+	- **Today, I have completed project innitialization on local as well as on git connecting azure.** (Progress 100%)\
+	- **Tomorrow, I will do improvement in Project: Deploy An Article CMS To Azure.**
+	- Hurdles: None
+	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
+
+
+
