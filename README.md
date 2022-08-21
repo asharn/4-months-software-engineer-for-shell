@@ -592,14 +592,34 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 
 
-
 ## Day 51: August 19, 2022. #60DaysofUdacity
 - My current progress is:\
   **5. Azure Applications** (Progress 100%)\
-	- **Today, I have completed project innitialization on local as well as on git connecting azure.** (Progress 100%)\
-	- **Tomorrow, I will do improvement in Project: Deploy An Article CMS To Azure.**
+	- **Today, I have completed project initialization on local,
+							push to git and 
+							create resourse group on azure.** (Progress 100%)\
+	- **Tomorrow, I will do improvement in Project with sign in fucn implimenting: Deploy An Article CMS To Azure.**
+	- Hurdles: None
+	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
+
+
+## Day 52: August 20, 2022. #60DaysofUdacity
+- My current progress is:\
+  **5. Azure Applications** (Progress 100%)\
+	- **Today, I have completed storage, database, keys linking part.** (Progress 100%)\
+	- **Tomorrow, I will do improvement in Project with overall fucn implimenting: Deploy An Article CMS To Azure.**
 	- Hurdles: None
 	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
 
 
 
+## Day 53: August 21, 2022. #60DaysofUdacity
+- My current progress is:\
+  **5. Azure Applications** (Progress 100%)\
+	- **Today, I have completed project: Deploy An Article CMS To Azure.
+		And submitted for review.** (Progress 100%)\
+	- **Tomorrow, I will incorporate code review if raise any else move to new chapter new lesson related to Azure Microservices.**
+	- Hurdles: None
+	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
+
+![Day 53](images/day-53.png)
