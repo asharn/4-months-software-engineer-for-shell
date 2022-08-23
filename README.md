@@ -629,10 +629,20 @@ My pledge "#60DaysofUdacity " with Udacity.
 ## Day 54: August 22, 2022. #60DaysofUdacity
 - My current progress is:\
   **6. Azure Microservices** (Progress 34%)\
-	- **Today, I have completed Lesson 1: Instroduction to Azure Microservices** (Progress 100%)\
+	- **Today, I have completed Lesson 1: Introduction to Azure Microservices** (Progress 100%)\
 	- **Tomorrow, I will be going to finish Lesson 2: Serverless Functions**
 	- Hurdles: None
 	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
 
 ![Day 54](images/day-54.png)
 
+
+## Day 55: August 23, 2022. #60DaysofUdacity
+- My current progress is:\
+  **6. Azure Microservices** (Progress 47%)\
+	- **Today, I have completed Lesson 2: till topic 'Create a MongoDB database - Azure Portal'** (Progress 50%)\
+	- **Tomorrow, I will be going to finish Lesson 2: Serverless Functions**
+	- Hurdles: None
+	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
+
+![Day 55](images/day-55.png)
