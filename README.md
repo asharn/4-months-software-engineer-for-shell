@@ -660,4 +660,12 @@ My pledge "#60DaysofUdacity " with Udacity.
 ![Day 56](images/day-56.png)
 
 
+## Day 57: August 25, 2022. #60DaysofUdacity
+- My current progress is:\
+  **6. Azure Microservices** (Progress 47%)\
+	- **Today, I have completed 2: Serverless Functions** (Progress 50%)\
+	- **Tomorrow, I will be going to finish Lesson 3: Enterprise Logic Apps and Event Grid**
+	- Hurdles: None
+	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
 
+![Day 57](images/day-57.png)
