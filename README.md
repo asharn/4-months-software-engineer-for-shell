@@ -675,9 +675,26 @@ My pledge "#60DaysofUdacity " with Udacity.
 ## Day 58: August 26, 2022. #60DaysofUdacity
 - My current progress is:\
   **6. Azure Microservices** (Progress 87%)\
-	- **Today, I have completed 2: Enterprise Logic Apps and Event Grid** (Progress 100%)\
+	- **Today, I have completed lesson 3: Enterprise Logic Apps and Event Grid** (Progress 100%)\
 	- **Tomorrow, I will be going to finish Lesson 4: Deployment**
 	- Hurdles: None
 	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
 
 ![Day 58](images/day-58.png)
+
+
+
+## Off-Day: August 27, 2022. #60DaysofUdacity
+
+
+
+## Day 59: August 28, 2022. #60DaysofUdacity
+- My current progress is:\
+  **6. Azure Microservices** (Progress 87%)\
+	- **Today, I have completed Lesson 4: Deployment** (Progress 100%)\
+	- **Tomorrow, I will be revising overall topics before starting project.**
+	- Hurdles: None
+	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
+
+![Day 59](images/day-59.png)
+
