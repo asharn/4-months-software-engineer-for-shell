@@ -690,11 +690,23 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ## Day 59: August 28, 2022. #60DaysofUdacity
 - My current progress is:\
-  **6. Azure Microservices** (Progress 87%)\
+  **6. Azure Microservices** (Progress 92%)\
 	- **Today, I have completed Lesson 4: Deployment** (Progress 100%)\
 	- **Tomorrow, I will be revising overall topics before starting project.**
 	- Hurdles: None
 	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
 
 ![Day 59](images/day-59.png)
+
+
+
+## Day 60: August 29, 2022. #60DaysofUdacity
+- My current progress is:\
+  **6. Azure Microservices** (Progress 92%)\
+	- **Today, I have completed revision of overall topics** (Progress 100%)\
+	- **Tomorrow, I will be going to start Project 5: Deploying the Neighborly App with Azure Functions.**
+	- Hurdles: None
+	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
+
+![Day 60](images/day-60.png)
 
