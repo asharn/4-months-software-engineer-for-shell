@@ -710,3 +710,15 @@ My pledge "#60DaysofUdacity " with Udacity.
 
 ![Day 60](images/day-60.png)
 
+
+
+## Day 61: August 30, 2022. #60DaysofUdacity
+- My current progress is:\
+  **6. Azure Microservices** (Progress 92%)\
+	- **Today, I have gone through Project Introduction, Project Setup and Part 1: Azure Function App** (Progress 100%)\
+	- **Tomorrow, I will be going to read Part 2, 3 and 4 to accomplished Project 5: Deploying the Neighborly App with Azure Functions.**
+	- Hurdles: None
+	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
+
+![Day 61](images/day-62.png)
+
