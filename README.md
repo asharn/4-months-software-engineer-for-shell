@@ -720,5 +720,24 @@ My pledge "#60DaysofUdacity " with Udacity.
 	- Hurdles: None
 	- I will encourage @Sandipan Dey @Prabhakar @Anindya Mahanty, @Suman.Palavalli, @Bhabani Prasad Kar, @Vamsi Krishna P, @Sushant.Magoo, @vipin rawat, @Muhammed firoz @Ranadeep Ghosh @Yashvendra Singh, @Raghu @Naveen Kumar @suhas murthy @Biraj Poddar @Nupur Chauhan @Bharat @Sudipta Sen @Kusum  @Anusha Panchumarthi  @Mohamed Salman@Ansam Yousry @Manas Ranjan Dash @Mercy Christopher @Akash Chaudhuri @Ajay Thakur @Lydia Samir 
 
-![Day 61](images/day-62.png)
+![Day 61](images/day-61.png)
+
+
+I am starting from Today with Sprint #1 and hoping to complete my Goal before sprint deadline.
+:dart: My Goal for this Sprint :
+To Complete below courses from Extracurricular course material:
+	1 Week: SQL and Data Modeling for the Web with Assessment - Fyyur: Artist Booking Site
+	2 Week: React Fundamentals with Assessment - MyReads: A Book Tracking App
+
+## Day 1
+	What did I work on today? :success-kid:     Today, I planned my schedule for first week and started Lesson: Interacting with database.
+	What will I work on tomorrow? :checklist: I will try to complete all the topics and exercises of Lesson: Interacting with database
+	How likely am I to achieve my Sprint Goal? :battery_charge::genie:, Excited to learn basic topics which already completed as Core Curriculum. Knowledge will be boosted.
+
+
+## Day 1
+	What did I work on today? :success-kid:     Today, I have completed all the topics and exercises of Lesson: Interacting with database.
+	What will I work on tomorrow? :checklist: I will try to complete all the topics and exercises of Lesson: SQL Alchemy Basics
+	How likely am I to achieve my Sprint Goal? I have finished the task waht I have planned to and moving forward with positive thoughts.
+
 
