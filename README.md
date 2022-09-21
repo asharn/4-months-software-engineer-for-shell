@@ -735,9 +735,21 @@ To Complete below courses from Extracurricular course material:
 	How likely am I to achieve my Sprint Goal? :battery_charge::genie:, Excited to learn basic topics which already completed as Core Curriculum. Knowledge will be boosted.
 
 
-## Day 1
+## Day 2
 	What did I work on today? :success-kid:     Today, I have completed all the topics and exercises of Lesson: Interacting with database.
 	What will I work on tomorrow? :checklist: I will try to complete all the topics and exercises of Lesson: SQL Alchemy Basics
 	How likely am I to achieve my Sprint Goal? I have finished the task waht I have planned to and moving forward with positive thoughts.
+
+
+## Day 3
+	What did I work on today? :success-kid:     Today, I have revised some of the concepts from Lesson: Interacting with database.
+	What will I work on tomorrow? :checklist: I will try to start and complete all the topics and exercises of Lesson: SQL Alchemy Basics.
+	How likely am I to achieve my Sprint Goal? I am good about the completion of topics for the sprint.
+
+## Day 4
+	What did I work on today? :success-kid:     Today, I have not able to do any improvement toward learning of course content but joined call with Philipp Krank for Feedback Session and that was awesome discussion.
+	What will I work on tomorrow? :checklist: I will try to start and complete all the topics and exercises of Lesson: SQL Alchemy Basics.
+	How likely am I to achieve my Sprint Goal? Even not done any advancement toward the course I feel good, motivated and energetic after solving issues of different scholars.
+
 
 
