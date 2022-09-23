@@ -758,3 +758,9 @@ To Complete below courses from Extracurricular course material:
 	How likely am I to achieve my Sprint Goal? I am feeling energetic and guts feeling speaks soon I will be able to complete first project from Ex-Curr..
 
 
+## Day 6
+	What did I work on today? :success-kid:  Today, I have gone through most of the lessons of SQL Alchemy Basics.
+	What will I work on tomorrow? :checklist: I will try to complete the remaining topics: SQL Alchemy Basics.
+	How likely am I to achieve my Sprint Goal? I am feeling excited and due to weekend I will be able to complete first project from Ex-Curr..
+
+
