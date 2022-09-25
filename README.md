@@ -764,3 +764,13 @@ To Complete below courses from Extracurricular course material:
 	How likely am I to achieve my Sprint Goal? I am feeling excited and due to weekend I will be able to complete first project from Ex-Curr..
 
 
+## Day 7
+	What did I work on today? :success-kid:  Today, I have completed SQL Alchemy Basics.
+	What will I work on tomorrow? :checklist: I will start and try to complete Alchemy ORM in Depth.
+	How likely am I to achieve my Sprint Goal? Things are good and will soon acomplish first project from ex-curr..
+
+
+## Day 8
+	What did I work on today? :success-kid:  Today, I have gone through some of the topics of Alchemy ORM in Depth.
+	What will I work on tomorrow? :checklist: I will try to complete Alchemy ORM in Depth.
+	How likely am I to achieve my Sprint Goal? Alchemy ORM is conceptual topics, so taking more time to finish. Although will try to soon start project as planned for Sprint.
