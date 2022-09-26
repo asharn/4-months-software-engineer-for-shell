@@ -774,3 +774,10 @@ To Complete below courses from Extracurricular course material:
 	What did I work on today? :success-kid:  Today, I have gone through some of the topics of Alchemy ORM in Depth.
 	What will I work on tomorrow? :checklist: I will try to complete Alchemy ORM in Depth.
 	How likely am I to achieve my Sprint Goal? Alchemy ORM is conceptual topics, so taking more time to finish. Although will try to soon start project as planned for Sprint.
+
+
+## Day 9
+	What did I work on today? :success-kid:  Today, I have completed Alchemy ORM in Depth.
+	What will I work on tomorrow? :checklist: I will try to start and complete Migration.
+	How likely am I to achieve my Sprint Goal? Things are not going as planned. I need to put extra time to accomplish this sprint.
+
